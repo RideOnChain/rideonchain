@@ -19,6 +19,9 @@ https://testnet.arbiscan.io/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
 
 Scroll sepolia
 https://sepolia-blockscout.scroll.io/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
+
+Celo Alfajores:
+https://alfajores.celoscan.io/address/0x337c664fd95fb2cf0f6e192f8cca0b130e01d54d
 <br />
 
 ### 1) Create your .env file
