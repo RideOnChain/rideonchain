@@ -13,6 +13,9 @@ Deployed chains
 
 Polygon Mumbai:
 https://mumbai.polygonscan.com/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
+
+Arbitrum: (chainId: 421613)
+https://testnet.arbiscan.io/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
 <br />
 
 ### 1) Create your .env file
