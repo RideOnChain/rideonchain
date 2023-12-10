@@ -1,11 +1,7 @@
-# Uber NextJs Blockchain Clone
+# RideOnChain - Decentralizing Journeys, Revolutionizing Payments
 
-- Web 3.0
-- Metamask
-- NextJS 12
-- Sanity.io
-- Mapbox
-- TailwindCSS
+### Demo Video:
+https://www.youtube.com/watch?v=zvcxekDS4k0
 
 ## Deployed chains
 
