@@ -22,6 +22,9 @@ https://explorer.testnet.mantle.xyz/address/0x337c664fd95fb2cf0f6e192f8cca0b130e
 
 <br />
 
+### Code for contracts:
+https://github.com/RideOnChain/contracts
+
 ## Getting Started
 
 ### 1) Create your .env file
