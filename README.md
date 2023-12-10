@@ -12,7 +12,7 @@ Arbitrum: (chainId: 421613)
 https://testnet.arbiscan.io/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
 
 Scroll sepolia
-https://sepolia-blockscout.scroll.io/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
+https://sepolia-blockscout.scroll.io/address/0xB065233064c110A52C3D368EfCef46206394bf9A
 
 Celo Alfajores:
 https://alfajores.celoscan.io/address/0x337c664fd95fb2cf0f6e192f8cca0b130e01d54d
