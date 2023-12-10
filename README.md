@@ -7,9 +7,7 @@
 - Mapbox
 - TailwindCSS
 
-## Getting Started
-
-Deployed chains
+## Deployed chains
 
 Polygon Mumbai:
 https://mumbai.polygonscan.com/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130E01D54d
@@ -22,7 +20,13 @@ https://sepolia-blockscout.scroll.io/address/0x337C664Fd95fb2cF0F6E192F8Cca0B130
 
 Celo Alfajores:
 https://alfajores.celoscan.io/address/0x337c664fd95fb2cf0f6e192f8cca0b130e01d54d
+
+Mantle:
+https://explorer.testnet.mantle.xyz/address/0x337c664fd95fb2cf0f6e192f8cca0b130e01d54d
+
 <br />
+
+## Getting Started
 
 ### 1) Create your .env file
 

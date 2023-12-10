@@ -71,6 +71,7 @@ const Navbar = () => {
     "MantleTest",
     "Scroll",
     "ScrollTest",
+    "Celo",
   ];
 
   return (
